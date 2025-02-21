@@ -97,8 +97,6 @@ Data Export: Save the scraped data to a CSV file for further analysis.
 
 Error Handling: Add robust error handling for missing fields or invalid URLs.
 
-Dynamic URL Input: Allow users to input their own eBay search URLs dynamically.
-
 Graphical Analysis: Integrate data visualization to analyze pricing trends.
 
 <br />
