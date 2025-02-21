@@ -78,7 +78,9 @@ python price_tracker.py
 
 
 ## 2. Filter by historical Listings
-[Filter by ended.webm](https://github.com/user-attachments/assets/90b91638-6bd5-4ca2-9d8e-5f4f75e1c36e)
+
+[Filter by ended.webm](https://github.com/user-attachments/assets/dd0f3d77-0c39-4958-a01f-347937d48ebb)
+
 <br />
 
 ### Paste the URL in the prompt
