@@ -72,14 +72,21 @@ python price_tracker.py
 
 ## 1. Current Listings
 
+[Regular search.webm](https://github.com/user-attachments/assets/e4a789ee-88e2-4ada-b491-d4dd2a62f59c)
 
+<br />
 
 
 ## 2. Filter by historical Listings
+[Filter by ended.webm](https://github.com/user-attachments/assets/90b91638-6bd5-4ca2-9d8e-5f4f75e1c36e)
+<br />
 
 ### Paste the URL in the prompt
+[script demo.webm](https://github.com/user-attachments/assets/411aae73-4990-4410-bdba-7821a54bcb68)
 
 Remember to paste with `Ctrl + Shift + v` in the terminal/cmd
+<br />
+<br />
 
 # Future Improvements
 Use statistics to filter out extreme outliers to make data more true
