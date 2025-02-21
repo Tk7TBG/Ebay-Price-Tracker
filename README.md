@@ -70,6 +70,17 @@ python price_tracker.py
 <br />
 <br />
 
+## 1. Current Listings
+
+
+
+
+## 2. Filter by historical Listings
+
+### Paste the URL in the prompt
+
+Remember to paste with `Ctrl + Shift + v` in the terminal/cmd
+
 # Future Improvements
 Use statistics to filter out extreme outliers to make data more true
 
