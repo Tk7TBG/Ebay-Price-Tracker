@@ -100,7 +100,6 @@ Error Handling: Add robust error handling for missing fields or invalid URLs.
 Graphical Analysis: Integrate data visualization to analyze pricing trends.
 
 <br />
-<br />
 
 # License
 This project is licensed under the MIT License.
