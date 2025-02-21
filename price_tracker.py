@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 
 sold_auction_url = 'https://www.ebay.com/sch/i.html?_fsrp=1&_from=R40&_nkw=steam+deck&_sacat=0&LH_Sold=1&rt=nc&LH_Auction=1'
 # Am separating these two because a sold buy now doesn't have bids
