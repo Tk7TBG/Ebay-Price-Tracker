@@ -40,9 +40,17 @@ def parse_data(soup):
         print(product_info)
     return
 
+item_url = str(input("Enter the ebay url you want to track: "))
+while True:
+    pagination_num = int(input("Enter the number of pages you want to track: "))
+    if pagination_num > 0 and pagination_num < 100:
+        break
+    else:
+        print("Please enter a number greater than 0 and less than 100")
+        continue
 
-soup = get_data("https://www.ebay.com/sch/i.html?_nkw=iphone+12&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313")
-for x in range(4):
+soup = get_data(item_url)
+for x in range(pagination_num):
     parse_data(soup)
     new_page_url = get_next_page(soup)
     soup = get_data(new_page_url)

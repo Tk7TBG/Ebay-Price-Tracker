@@ -2,6 +2,9 @@
 
 This project is an **eBay Price Tracker** built in Python. The script scrapes **historical** eBay listings for specific products and prices. The tool helps track historical prices for auctions and "Buy It Now" listings to help you make a more informed decision based on price trends.
 
+<br />
+<br />
+
 ## Features
 - Fetches data for **historical** auction-based and "Buy It Now" listings.
 - Tracks key information such as:
@@ -9,10 +12,16 @@ This project is an **eBay Price Tracker** built in Python. The script scrapes **
   - Sold price
 - Supports pagination to scrape data across multiple pages.
 
+<br />
+<br />
+
 ## Requirements
 The script uses the following Python libraries:
 - `requests` — For sending HTTP requests to eBay.
 - `BeautifulSoup` from `bs4` — For parsing and extracting data from the eBay webpage.
+
+<br />
+<br />
 
 ## 🚀 How to Run the eBay Price Tracker
 
@@ -57,11 +66,23 @@ Once everything is set up, execute the script inside the virtual environment:
 python price_tracker.py
 ```
 
+
+<br />
+<br />
+
 # Future Improvements
+Use statistics to filter out extreme outliers to make data more true
+
 Data Export: Save the scraped data to a CSV file for further analysis.
+
 Error Handling: Add robust error handling for missing fields or invalid URLs.
+
 Dynamic URL Input: Allow users to input their own eBay search URLs dynamically.
+
 Graphical Analysis: Integrate data visualization to analyze pricing trends.
+
+<br />
+<br />
 
 # License
 This project is licensed under the MIT License.
