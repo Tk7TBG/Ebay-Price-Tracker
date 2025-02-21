@@ -13,8 +13,6 @@ This project is an **eBay Price Tracker** built in Python. The script scrapes **
 The script uses the following Python libraries:
 - `requests` — For sending HTTP requests to eBay.
 - `BeautifulSoup` from `bs4` — For parsing and extracting data from the eBay webpage.
-- `pandas` — For potential future data manipulation and saving as CSV (currently unused).
-Here is the formatted "How to Run" section for your README:
 
 ## 🚀 How to Run the eBay Price Tracker
 
@@ -58,8 +56,6 @@ Once everything is set up, execute the script inside the virtual environment:
 ```bash
 python price_tracker.py
 ```
-
-✅ You’re all set! The script will now fetch eBay price data 🚀
 
 # Future Improvements
 Data Export: Save the scraped data to a CSV file for further analysis.
